@@ -1,0 +1,31 @@
+{
+    "cuit": 20383170952,
+    "year": 21,
+    "month": 11,
+    "ventas": [
+        {
+            "ean": 7790000000007,
+            "denominacion": "M2",
+            "unidad_medida": "lt",
+            "cantidad_producida": 11,
+            "cantidad_vendida": 1,
+            "precio_venta": 11
+        },
+        {
+            "ean": 7790000000008,
+            "denominacion": "M1",
+            "unidad_medida": "lt",
+            "cantidad_producida": 11,
+            "cantidad_vendida": 1,
+            "precio_venta": 11
+        },
+        {
+            "ean": 7790000000009,
+            "denominacion": "M5",
+            "unidad_medida": "m",
+            "cantidad_producida": 881,
+            "cantidad_vendida": 1,
+            "precio_venta": 11000
+        }
+    ]
+}
